@@ -1,0 +1,13 @@
+{
+	"n_targets": 0,
+	"n_bootstraps": 0,
+	"n_processed": 281209033,
+	"n_pseudoaligned": 183322362,
+	"n_unique": 34409416,
+	"p_pseudoaligned": 65.2,
+	"p_unique": 12.2,
+	"kallisto_version": "0.46.1",
+	"index_version": 0,
+	"start_time": "Thu Apr 30 12:19:35 2020",
+	"call": "/home/ramezqui/.local/lib/python3.7/site-packages/kb_python/bins/linux/kallisto/kallisto bus -i /home/ramezqui/analysis/_BCMA/data-raw/kb-ref_custom/custom_kb-ref.idx -o /home/ramezqui/analysis/_BCMA/data-raw/kb-count/00587_d-028_BMA -x 10XV2 -t 8 /home/ramezqui/analysis/_BCMA/data-raw/fastq/samples/00587_d-028_BMA/00587_d-028_BMA_S2_L002_R1_001.fastq.gz /home/ramezqui/analysis/_BCMA/data-raw/fastq/samples/00587_d-028_BMA/00587_d-028_BMA_S2_L002_R2_001.fastq.gz"
+}

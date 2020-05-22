@@ -1,0 +1,13 @@
+{
+	"n_targets": 249043,
+	"n_bootstraps": 0,
+	"n_processed": 2432349,
+	"n_pseudoaligned": 188051,
+	"n_unique": 84106,
+	"p_pseudoaligned": 7.7,
+	"p_unique": 3.5,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Fri May  1 12:58:28 2020",
+	"call": "kallisto quant -i /home/ramezqui/reference-indexes/GENCODE/human//kallisto.idx -o /home/ramezqui/analysis/_HVTN/data-raw/kallisto_new_v2/157560571_2_H9_AGGCAGAA-ACTGCATA --bias --threads 4 --genomebam --gtf /home/ramezqui/reference/GENCODE/human//gencode.v33.chr_patch_hapl_scaff.annotation.gtf.gz --chromosomes /home/ramezqui/reference/GENCODE/human//GRCh38.p13.chromsizes /home/ramezqui/analysis/_HVTN/data-raw/fastq_new/157560571_2_H9_AGGCAGAA-ACTGCATA/157560571_2_H9_AGGCAGAA-ACTGCATA_R1.fastq.gz /home/ramezqui/analysis/_HVTN/data-raw/fastq_new/157560571_2_H9_AGGCAGAA-ACTGCATA/157560571_2_H9_AGGCAGAA-ACTGCATA_R2.fastq.gz"
+}

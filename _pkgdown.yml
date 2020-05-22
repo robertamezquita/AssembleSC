@@ -1,0 +1,13 @@
+reference:
+  - title: Ingest
+    desc: >
+      Read results from various scRNA-seq aligners.
+    contents:
+    - ingest
+    - ingest_kallisto
+  - title: Preliminary Quality Control
+    desc: >
+      Calculate metrics and draw plots that are part of performing initial scRNA-seq sample quality assessments.
+    contents:
+    - calc_preqc_metrics
+    - draw_kneeplot

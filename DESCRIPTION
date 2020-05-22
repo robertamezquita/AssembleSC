@@ -1,0 +1,29 @@
+Package: AssembleSC
+Title: Assemble Single-Cell Sequencing Analysis Reports
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Robert",
+           family = "Amezquita",
+           role = c("aut", "cre"),
+           email = "ramezqui@fredhutch.org",
+           comment = c(ORCID = "0000-0001-6868-7193"))
+Description: Assembly of functions for constructing basic single-cell sequencing analysis. From ingest to downstream analysis.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Imports: 
+    magrittr,
+    rlang,
+    fs,
+    Matrix,
+    readr,
+    SingleCellExperiment,
+    DropletUtils,
+    ggplot2,
+    tximport
+Suggests: 
+    testthat
+Depends: 
+    R (>= 2.10)
